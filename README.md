@@ -1,4 +1,4 @@
-# Artillery RL — Gymnasium (Q-learning + DQN)
+# Artillery RL — Gymnasium (Q-learning + SAC)
 
 This repository is migrated to **Gymnasium** and contains:
 - env.py : Gymnasium-compatible environment (obs includes shelter location & wind)
